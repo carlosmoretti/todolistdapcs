@@ -1,0 +1,14 @@
+E:\repos\todolistdapcs\Todo\Repositories\bin\Debug\netcoreapp2.1\Entities.dll
+E:\repos\todolistdapcs\Todo\Repositories\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\repos\todolistdapcs\Todo\Repositories\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\repos\todolistdapcs\Todo\Repositories\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+E:\repos\todolistdapcs\Todo\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+E:\repos\todolistdapcs\Todo\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+E:\repos\todolistdapcs\Todo\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+E:\repos\todolistdapcs\Todo\Repositories\bin\Debug\netcoreapp2.1\Repositories.deps.json
+E:\repos\todolistdapcs\Todo\Repositories\bin\Debug\netcoreapp2.1\Repositories.dll
+E:\repos\todolistdapcs\Todo\Repositories\bin\Debug\netcoreapp2.1\Repositories.pdb
+E:\repos\todolistdapcs\Todo\Repositories\bin\Debug\netcoreapp2.1\Entities.pdb
+E:\repos\todolistdapcs\Todo\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CopyComplete
+E:\repos\todolistdapcs\Todo\Repositories\obj\Debug\netcoreapp2.1\Repositories.dll
+E:\repos\todolistdapcs\Todo\Repositories\obj\Debug\netcoreapp2.1\Repositories.pdb

@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Entities.Todo>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="card">
+    <div class="card-header">
+        TodoList
+    </div>
+    <div class="card-body">
+        <table class="table table-striped">
+            <tr>
+                <th>Tarefa</th>
+                <th>Horário</th>
+                <th>Proprietário</th>
+                <th></th>
+            </tr>
+            @foreach(var item in Model)
+            {
+                <tr>
+                    <td>@item.Tarefa</td>
+                    <td>@item.Horario</td>
+                    <td>@item.Pessoa.Nome</td>
+                    <td>@Html.ActionLink("Alterar", "Editar", "Home", new { Id = item.Id }, new { @class = "btn btn-sm btn-warning" })  @Html.ActionLink("Remover", "Remover", "Home", new { Id = item.Id }, new { @class = "btn btn-sm btn-danger" })</td>
+                </tr>
+            }
+        </table>
+        @Html.ActionLink("Cadastrar", "Cadastrar", "Home", null, new { @class="pull-right btn btn-sm btn-success"})
+    </div>
+</div>
