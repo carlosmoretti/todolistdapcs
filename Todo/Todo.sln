@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28917.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{EF7CC884-AFF0-4870-9A74-85E53B781748}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{EF7CC884-AFF0-4870-9A74-85E53B781748}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositories", "Repositories\Repositories.csproj", "{AFE7E4F1-0C30-4DEC-A159-0EBF57E3958F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repositories", "Repositories\Repositories.csproj", "{AFE7E4F1-0C30-4DEC-A159-0EBF57E3958F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{6242F21D-0FDA-4298-AEFF-73E7BA2B5889}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "Application\Application.csproj", "{6242F21D-0FDA-4298-AEFF-73E7BA2B5889}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
